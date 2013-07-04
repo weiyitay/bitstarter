@@ -1,4 +1,4 @@
-var express = require('express');
+express = require('express');
 
 var app = express.createServer(express.logger());
 
